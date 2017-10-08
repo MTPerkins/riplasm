@@ -14,7 +14,7 @@ RID0003	Zea	diploperennis	PI	441931	336867	Mexico	Jalisco	19.6	-104.283	1900	Las
 RID0004	Zea	diploperennis	PI	441932	336868	Mexico	Jalisco	19.5875	-104.264	1925	Near houses at Zarza mora (Blackberry)  about 2 km east of Las Joyas  6 km west-southwest of Rincon de Manantlan  15 km south-southwest of El Chante  top of Sierra de Manantlan Occidental. Open  grassy  ungrazed slopes and roadsides  pastures and grazed orchards.		Wild	USDA			
 RIHA0001	Hemarthria	altissima	PI	299039													
 RIHH0001	Hyparrhenia	hirta	PI	206889													
-RIHY0001	Zea	mays subsp. mays														RIMMA0758 x RIMMA0039 F1	
+RIHY0001	Zea	mays subsp. mays														RIMMA0758 x RIMMA0039 F1 (Chulpi x Costeno)	
 RIHY0004	Zea	hybrid										ssp mays x ssp parviglumis		Doebley	0	6k from Doebley\ Packet 16609\ Seed Lot 06GH-94-4 x TIP-522\ Cross Notes: F1\ Stock Description: B73 x TIL1-S8\ 2k sent to R. Kelly Dawe\ No more seeds	
 RIHY0005	Zea	hybrid										ssp mays x ssp parviglumis		Doebley	0	6k from Doebley\ Packet 16613\ Seed Lot 06GH-101-4 x TIP-536\ Cross Notes: F1\ Stock Description: OH43 x TIL 11-S9\ 2k sent to R. Kelly Dawe	
 RIHY0006	Zea	hybrid										ssp mays x ssp parviglumis		Doebley	0	6k from Doebley\ Packet 16620\ Seed Lot: GH2006-96-5 x TIP-459-TIP-459\ Cross Notes: F1\ Stock Description: B73 x TIL5\ 2k sent to R. Kelly Dawe	
@@ -1385,3 +1385,20 @@ RIMMA1086	Zea	mays subsp. mays												Baker Creek Heirloom Seed Company	20	P
 RIMMA1087	Zea	mays subsp. mays												Baker Creek Heirloom Seed Company	8	Puka Chullpi	
 RIMMA1088	Zea	mays subsp. mays												Baker Creek Heirloom Seed Company	8	Yurackallhua Incan Giant	
 RIMMA1089	Zea	mays subsp. mays												Baker Creek Heirloom Seed Company	8	Kara Kay Suni	
+RIMMA1090	Zea	mays subsp. mays												Maize Genetics Co-op	15	X12K; Rhoades Ab10 request from stock center	
+RIMMA1091	Zea	mays subsp. mays												Jim Birchler	5	y1 BC7 sefl2 fast-flowering mini maize	
+RIMMA1092	Zea	mays subsp. Mays												Jim Birchler	5	R-scm2 BC7 self2 fast-flowering mini maize	
+RIMMA1093	Zea	mays subsp. mays												Maize Genetics Co-op	15	X12JA; Rhoades Ab10 request from stock center	
+RIMMA1094	Zea	mays subsp. mays												Maize Genetics Co-op	15	X12I; Rhoades Ab10 request from stock center	
+RIMMA1095	Zea	mays subsp. mays												Maize Genetics Co-op	15	X12M; Rhoades Ab10 request from stock center	
+RIMMA1096	Zea	mays subsp. mays												Maize Genetics Co-op	15	X16E; Rhoades Ab10 request from stock center	
+RIMMA1097	Zea	mays subsp. mays												Maize Genetics Co-op	20	T33060; Rhoades Ab10 request from stock center	
+RIMMA1098	Zea	mays subsp. mays												Maize Genetics Co-op	15	X37B; Rhoades Ab10 request from stock center	
+RIMMA1099	Zea	mays subsp. mays												Maize Genetics Co-op	15	X12L; Rhoades Ab10 request from stock center	
+RIHY0002	Zea	mays subsp. Mays	Ames	19097										USDA	100	RIMMA0019 x RIMMA0056 F1 (B73 x Mo17)	
+RITD0002	Tripsacum	dactyloides												RILAB	11	"Pete2, lab growout"	
+RITD0003	Tripsacum	dactyloides												RILAB	2	"IL-6, lab growout, maize pollen in greenhouse before bagging"	
+RITD0004	Tripsacum	dactyloides												RILAB	1	"IA-83237-2, lab growout, sweet corn pollen in greenhouse before bagging"	
+RITD0005	Tripsacum	dactyloides												RILAB		"810, lab growout"	
+RITD0006	Tripsacum	dactyloides												RILAB		"IL-9, lab growout"	
+RITD0007	Tripsacum	dactyloides												RILAB		"803, lab growout"	
