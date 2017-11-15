@@ -65,7 +65,7 @@ RIMMA0025	Zea	mays subsp. mays	PI	595561	525986							Population 79: Sta.Rosa 80
 RIMMA0026	Zea	mays subsp. mays	PI	620781	42603	Mexico	Coahuila	28.5	-100.933	250	Zaragoza.		Traditional cultivar/landrace	USDA		Palomero	
 RIMMA0027	Zea	mays subsp. mays	PI	629124	73261	Mexico	Campeche	20.3167	-90.0167	30	Calkini.		Traditional cultivar/landrace	USDA		Dzit Bacal	
 RIMMA0028	Zea	mays subsp. mays	PI	645866	83081	Mexico	Mexico	19.8	-99.8667	2600	El Potrero  Atlacomulco.		Traditional cultivar/landrace	USDA		Palomero	
-RIMMA0029	Zea	mays subsp. mays	Ames	28186	699968								Breeder's line	USDA	P39	
+RIMMA0029	Zea	mays subsp. mays	Ames	28186	699968								Breeder's line	USDA		P39	
 RIMMA0030	Zea	mays subsp. mays	Ames	19962	83844	Mexico	Mexico	19.2667	-100.183	2100	1 km northeast of St. Cuitlapaltepec  Santiago Cuitlapaltepec  Municipio of Donato Guerra.		Traditional cultivar/landrace	USDA		Palomero Toluqu–o	
 RIMMA0030	Zea	mays subsp. mays	Ames	19962	83844	Mexico	Mexico	19.2667	-100.183	2100	1 km northeast of St. Cuitlapaltepec  Santiago Cuitlapaltepec  Municipio of Donato Guerra.		Traditional cultivar/landrace	USDA		Palomero Toluqu?o	
 RIMMA0031	Zea	mays subsp. mays	NSL	2824	22072								Traditional cultivar/landrace	USDA		Palomero Toluqu–o	
