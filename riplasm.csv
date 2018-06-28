@@ -66,6 +66,12 @@ RIHY0018,Zea,hybrid,,,,,,,,,,ssp. mays x ssp. parviglumis,,Doebley,,Packet 16612
 
 RIHY0019,Zea,hybrid,,,,,,,,,,ssp. mays x Zea diploperennis,,Dawe,~30,"B73 x KD3595 diploperennis PI462368, received from K. Dawe on June 8, 2018",,,,,,,,,,
 
+RIHY0020,Zea,hybrid,,,,,,,,,,ssp. mays x ssp. mexicana,,Flint-Garcia,10,"B73 x PI566680, 07PR2041-06, received from S. Flint-Garcia on June 27, 2018",,,,,,,,,,
+
+RIHY0021,Zea,hybrid,,,,,,,,,,ssp. mays x ssp. mexicana,,Flint-Garcia,10,"B73 x PI566681, 07PR1001-03, received from S. Flint-Garcia on June 27, 2018",,,,,,,,,,
+
+RIHY0022,Zea,hybrid,,,,,,,,,,ssp. mays x ssp. mexicana,,Flint-Garcia,10,"B73 x PI566682, 07PR1001-08, received from S. Flint-Garcia on June 27, 2018",,,,,,,,,,
+
 RIIR,Ischaemum,rugosum,KEW,183574,,,,,,,,,,,,,,,,,,,,,,
 
 RIISB0014,Sorghum,bicolor subsp. bicolor,PI,,,,,,,,,,,,,,,,,,,,,,,
@@ -136,11 +142,11 @@ RIMMA0028,Zea,mays subsp. mays,PI,645866,83081,Mexico,Mexico,19.8,,99.8667,2600,
 
 RIMMA0029,Zea,mays subsp. mays,Ames,28186,699968,,,,,,,,Breeder's line,USDA,,,,,,,,,,,,
 
-RIMMA0030,Zea,mays subsp. mays,Ames,19962,83844,Mexico,Mexico,19.2667,,100.183,2100,1 km northeast of St. Cuitlapaltepec  Santiago Cuitlapaltepec  Municipio of Donato Guerra.,,Traditional cultivar/landrace,USDA,,Palomero Toluqu–o,,,,,,,,,
+RIMMA0030,Zea,mays subsp. mays,Ames,19962,83844,Mexico,Mexico,19.2667,,100.183,2100,1 km northeast of St. Cuitlapaltepec  Santiago Cuitlapaltepec  Municipio of Donato Guerra.,,Traditional cultivar/landrace,USDA,,Palomero Toluquâo,,,,,,,,,
 
 RIMMA0030,Zea,mays subsp. mays,Ames,19962,83844,Mexico,Mexico,19.2667,,100.183,2100,1 km northeast of St. Cuitlapaltepec  Santiago Cuitlapaltepec  Municipio of Donato Guerra.,,Traditional cultivar/landrace,USDA,,Palomero Toluqu?o,,,,,,,,,
 
-RIMMA0031,Zea,mays subsp. mays,NSL,2824,22072,,,,,,,,Traditional cultivar/landrace,USDA,,Palomero Toluqu–o,,,,,,,,,,
+RIMMA0031,Zea,mays subsp. mays,NSL,2824,22072,,,,,,,,Traditional cultivar/landrace,USDA,,Palomero Toluquâo,,,,,,,,,,
 
 RIMMA0031,Zea,mays subsp. mays,NSL,2824,22072,,,,,,,,Traditional cultivar/landrace,USDA,,Palomero Toluqu?o,,,,,,,,,,
 
@@ -1582,7 +1588,7 @@ RIMMA0755,Zea,mays subsp. mays,,,,United States,,,,,,Iodent,Breeder's Line,Goodm
 
 RIMMA0756,Zea,mays subsp. mays,,,,,,,,,,,Traditional cultivar/landrace,Doebley,,"MR17 (Pisankalla), 60 total kernels; 4 packets, including unknown and inbred generations S4 and S6",,,,,,,,,,
 
-RIMMA0757,Zea,mays subsp. mays,,,,,,,,,,,Traditional cultivar/landrace,Doebley,,"MR29 (Conico Norte–o); 2 packets, inbred generation S3",,,,,,,,,,
+RIMMA0757,Zea,mays subsp. mays,,,,,,,,,,,Traditional cultivar/landrace,Doebley,,"MR29 (Conico Norteâo); 2 packets, inbred generation S3",,,,,,,,,,
 
 RIMMA0757,Zea,mays subsp. mays,,,,,,,,,,,Traditional cultivar/landrace,Doebley,,"MR29 (Conico Norte?o); 2 packets, inbred generation S3",,,,,,,,,,
 
@@ -1652,9 +1658,9 @@ RIMMA0789,Zea,mays subsp. mays,,,,,,17.3812,,,Sta. Maria Temaxcalapa,,,Bennett,,
 
 RIMMA0790,Zea,mays subsp. mays,,,,,,17.3367,,,San Cristobal Lachirioag,,,Bennett,,Oaxacan landraces for study of Oloton; obtained under a Material Transfer Agreement with the community that does not allow distribution outside of UC collaborators.,,,,,,,,,,
 
-RIMMA0791,Zea,mays subsp. mays,,,,,,17.31,,,San Francisco Yateé,,,Bennett,,Oaxacan landraces for study of Oloton; obtained under a Material Transfer Agreement with the community that does not allow distribution outside of UC collaborators.,,,,,,,,,,
+RIMMA0791,Zea,mays subsp. mays,,,,,,17.31,,,San Francisco YateÃ©,,,Bennett,,Oaxacan landraces for study of Oloton; obtained under a Material Transfer Agreement with the community that does not allow distribution outside of UC collaborators.,,,,,,,,,,
 
-RIMMA0792,Zea,mays subsp. mays,,,,,,17.2938,,,San Andres Yaá,,,Bennett,,Oaxacan landraces for study of Oloton; obtained under a Material Transfer Agreement with the community that does not allow distribution outside of UC collaborators.,,,,,,,,,,
+RIMMA0792,Zea,mays subsp. mays,,,,,,17.2938,,,San Andres YaÃ¡,,,Bennett,,Oaxacan landraces for study of Oloton; obtained under a Material Transfer Agreement with the community that does not allow distribution outside of UC collaborators.,,,,,,,,,,
 
 RIMMA0793,Zea,mays subsp. mays,,,,,,17.2939,,,San miguel de Metepec,,,Bennett,,Oaxacan landraces for study of Oloton; obtained under a Material Transfer Agreement with the community that does not allow distribution outside of UC collaborators.,,,,,,,,,,
 
@@ -2218,7 +2224,7 @@ RIMMA1072,Zea,mays subsp. mays,,,,,,,,,,,inbred line,Maize Genetics Co,op,10,UFM
 
 RIMMA1073,Zea,mays subsp. mays,,,,,,,,,,,,,,,,,,,,,,,,
 
-RIMMA1074,Zea,mays subsp. mays,,,,,,,,,,,,Dawe,,B73-Ab10; individual 25�1; sequenced inbred from NAM PGRP project,11FG270,,,,,,,,,
+RIMMA1074,Zea,mays subsp. mays,,,,,,,,,,,,Dawe,,B73-Ab10; individual 25¥1; sequenced inbred from NAM PGRP project,11FG270,,,,,,,,,
 
 RIMMA1075,Zea,mays subsp. mays,,,,,,,,,,,,commercial,,"ornamental ""striped japonica""",,,,,,,,,,
 
@@ -2294,7 +2300,7 @@ RIMME0027,Zea,mays subsp. mexicana,,,,Mexico,Morelos,18.9719,99.0551,,Amatlan,,W
 
 RIMME0028,Zea,mays subsp. mexicana,,,,Mexico,Michoacan,20.1076,101.49,,Puruandiro(Victor),,Wild,Lubinsky,,Collected: 10/29/08 Individuals: A,O (15) Notes: Bag A no seeds and X duplicated (?),,,,,,,,,
 
-RIMME0029,Zea,mays subsp. mexicana,,,,Mexico,Michoacan,20.1683,102.373,,Ixtlan,,Wild,Lubinsky,,Collected: 10/28/08 Individuals: A,T(20) Notes: 10 Milo + 10 Pioneer(?); ¥ Volunteers inside/surrounding sorghum field,,,,,,,,,
+RIMME0029,Zea,mays subsp. mexicana,,,,Mexico,Michoacan,20.1683,102.373,,Ixtlan,,Wild,Lubinsky,,Collected: 10/28/08 Individuals: A,T(20) Notes: 10 Milo + 10 Pioneer(?); Â¥ Volunteers inside/surrounding sorghum field,,,,,,,,,
 
 RIMME0030,Zea,mays subsp. mexicana,,,,Mexico,Puebla,19.0886,98.4935,,San Pedro,,Wild,Lubinsky,,Collected: 11/12/08 Individuals: A,S (19) Notes:,,,,,,,,,
 
